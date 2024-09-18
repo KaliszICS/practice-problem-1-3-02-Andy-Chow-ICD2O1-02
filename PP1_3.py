@@ -6,13 +6,13 @@ Date Last Modified: September 18th, 2024
 '''
 
 def q1():
-  print("* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n""\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n""\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   #Write Assignment code here
   #Remember your code must be indented once
 
 def q2():
   print("Hello ", end = "")
-  print("World\n")
+  print("World")
   #Write Assignment code here
   
 def q3():
